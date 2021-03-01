@@ -32,7 +32,13 @@ Here are the requirements one should take note of in order to complete these ste
 
   * **Azure DevOps Account** - visit [dev.azure.com](https://dev.azure.com) and sign in with your account.  
   
-  * **PartsUnlimted Project** - either import this repository into your Azure DevOps project **OR** visit [the Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/) and sign in with your ADO account. Follow the prompts to generate a **`PartsUnlimited`** project into your ADO organization and add the files specified in this README to your project.
+  * **PartsUnlimted Project**:
+  
+    You can either import this repository into your Azure DevOps project 
+  
+    **OR** 
+  
+    Visit [the Azure DevOps Demo Generator](https://azuredevopsdemogenerator.azurewebsites.net/) and sign in with your ADO account. Follow the prompts to generate and import a fresh **`PartsUnlimited`** project into your ADO demo organization. `**Note**` see the steps below to add the specified files mentioned in this README to your project.
   
   * **Azure Subscription** - to release our website via an Azure App Service you need a linked subscription from [portal.azure.com](https://portal.azure.com).  
   
